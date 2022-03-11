@@ -1,0 +1,29 @@
+body {
+    background-image: url("s.gif");
+    background-color: #FEE3EC;
+ } 
+
+img{
+    display: block;
+    height: 300px;
+    margin: 0 auto;
+  }
+  
+h1,h3,form {
+    text-align: center;
+}
+
+h1 {
+    color: pink;
+}
+
+button {
+    margin: 20px auto;
+    display: block;
+}
+
+h3{
+    font-size: 60px;
+    color: blue;
+    font-weight: bold;
+  }
